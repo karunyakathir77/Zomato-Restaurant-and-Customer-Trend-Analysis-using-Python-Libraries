@@ -2,7 +2,7 @@
 ## Objective
 In this project, it aims to explore and analyze restaurant data from Zomato to uncover insights about restaurant types, locations, cost, ratings, online ordering, and more. The analysis provides a comprehensive view of Bangalore's dining trends using Python libraries and visualizations.
 ## Dataset
-- Source: Kaggle.com
+- Source: [Dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 - Size: 50,000+ rows
 - Key Columns:
   - URL / Address / Phone / Location
