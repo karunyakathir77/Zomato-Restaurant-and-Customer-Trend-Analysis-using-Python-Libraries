@@ -31,19 +31,19 @@ In this project, it aims to explore and analyze restaurant data from Zomato to u
 - Impact of Vote Count on Ratings
 - Impact of Online Ordering on Ratings
 ## Key Findings
-* Quick Bites and Casual Dining dominate the Bangalore food scene.
-* North Indian and South Indian cuisines are most prevalent.
-* BTM and Koramangala have the highest restaurant density.
-* ~65% of restaurants offer Online Orders.
-* Only ~15% provide Table Booking options.
-* Koramangala records the highest vote count, indicating strong customer engagement.
-* Lavelle Road and Koramangala have higher average ratings (>4.0).
-* Highly-rated restaurants include Asia Kitchen, Punjab Grill, and Belgian Waffle Factory, located in premium areas.
-* Most expensive restaurants (₹5k–₹6k for 2) include Le Cirque Signature and Royal Afghan.
-* Desserts, Bakery, and Cafés top the list for average customer ratings.
-* Casual Dining, Bars, and Dessert Parlours are top-rated restaurant types.
-* Votes do not significantly influence ratings.
-* Online ordering positively influences ratings.
+* *Quick Bites and Casual Dining* dominate the Bangalore food scene.
+* *North Indian and South Indian* cuisines are most prevalent.
+* *BTM and Koramangala* have the highest restaurant density.
+* *~65%* of restaurants offer Online Orders.
+* Only *~15%* provide Table Booking options.
+* **Koramangala** records the highest vote count, indicating strong customer engagement.
+* **Lavelle Road and Koramangala** have higher average ratings (>4.0).
+* Highly-rated restaurants include *Asia Kitchen, Punjab Grill, and Belgian Waffle Factory*, located in premium areas.
+* Most expensive restaurants (₹5k–₹6k for 2) include *Le Cirque Signature and Royal Afghan*.
+* *Desserts, Bakery, and Cafés* top the list for average customer ratings.
+* *Casual Dining, Bars, and Dessert Parlours* are top-rated restaurant types.
+* Votes **do not** significantly influence ratings.
+* Online ordering positively **influences** ratings.
 ## Strategic Recommendations
 * Expand Quick Bites and Casual Dining chains in growing localities.
 * Enhance online order presence for better customer reach and satisfaction.
